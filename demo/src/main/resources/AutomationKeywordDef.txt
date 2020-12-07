@@ -1,0 +1,12 @@
+enter = EnterDetails
+entered = EnterDetails
+fill = EnterDetails
+filled = EnterDetails
+Click = EnterDetails
+Select = EnterDetails
+ER_ = GetErrorMessage
+error = GetErrorMessage
+display = GetObjectExistance
+verify = GetObjectExistance
+LoginSuccess = GetObjectExistance
+

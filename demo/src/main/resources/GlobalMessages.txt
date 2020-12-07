@@ -1,0 +1,5 @@
+ER_NoName = Enter your name.
+ER_NoUserName = Enter your email.
+ER_NoPwdName = Enter your password.
+ER_UserNameFormat = Enter a valid email address.
+ER_PwdFormat =  Passwords must be at least 6 characters.
